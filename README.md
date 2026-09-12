@@ -67,7 +67,8 @@ Select your instance → Instance State → Terminate.
 
 ## EC2(Elastic Cloud Compute)
 
-![Uploading image.png…]()
+<img width="1317" height="346" alt="image" src="https://github.com/user-attachments/assets/1a4e02a4-a4b6-4856-9374-f22c679f36cb" />
+
 
 
 
